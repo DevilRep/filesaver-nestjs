@@ -2,6 +2,11 @@
 
 This is a simple file store project like Google drive. The main purpose of this project is try a new technologies, frameworks, etc
 
+# Technologies
+
+* nestjs
+* postgresql
+
 # Prerequirements
 
 You should have installed `docker` and `docker-compose` to run this project in a docker container or `nodejs` and `nestjs` to run it without container
